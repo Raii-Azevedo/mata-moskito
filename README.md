@@ -25,7 +25,7 @@ Aqui estão as tecnologias utilizadas nesse projeto:
 ## Links
  
   - Link of deployed application: (Heroku)
-  - Repository:
+  - [Repository] (https://github.com/Raii-Azevedo/mata-moskito)
 
  
 ## Versão
