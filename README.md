@@ -3,7 +3,7 @@
 - Game mata mosquito criado com HTML, CSS, JavaScript e Backend composto por Django Framework
 - Game kills mosquito created with HTML, CSS, JavaScript and Backend composed by Django Framework
 
-![Mata Mosquito])
+![Mata Mosquito](https://github.com/Raii-Azevedo/mata-moskito/blob/main/game.gif)
 
 
 ## Tecnologia
