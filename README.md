@@ -6,6 +6,32 @@
 ![Mata Mosquito])
 
 
+## Tecnologia
+ 
+Aqui estão as tecnologias utilizadas nesse projeto:
+ 
+- HTML
+- CSS
+- JavaScript
+- Django
+
+ 
+## Services Used
+ 
+* Github
+* Heroku
+ 
+ 
+## Links
+ 
+  - Link of deployed application: (Heroku)
+  - Repository:
+
+ 
+## Versão
+- 1.0
+
+
 ## Author
 - RAISSA AZEVEDO
  
